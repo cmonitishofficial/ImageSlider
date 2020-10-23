@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* image setting */
+img{
+  height: 500px;
+  width: 100%;
+}
+.crousel-slide{
+  display: flex;
+  width: 100%;
+  height: 500px;
+  border: 5px solid black;
+  /* overflow: hidden;   */
+}
+
+.crousel-container{
+  width: 60%;
+  margin: auto;
+  overflow: hidden;
+  
+  
+}
+
+#prevBtn{
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  le
+}
